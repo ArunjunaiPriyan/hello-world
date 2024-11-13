@@ -142,7 +142,7 @@
 <div class="container">
     <!-- Registration Form -->
     <div class="login-container">
-        <h2>Aalaya Turf Registration</h2>
+        <h2>Priyan Turf Registration</h2>
         <form id="registrationForm">
             <input type="text" name="username" class="input-field" placeholder="Enter your name" required>
             <input type="email" name="email" class="input-field" placeholder="Enter your email" required>
